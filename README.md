@@ -1,2 +1,4 @@
 # SNAKE-GAME
-A full responsive playable game built using HTML, CSS &amp; JAVASCRIPT
+Responsive playable game.
+Displays score and hiscore.
+Built using HTML,CSS & JAVA SCRIPT.
